@@ -1,4 +1,11 @@
 # Tugas-Individu-1 Grafkom
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Canvas API](https://img.shields.io/badge/Canvas_API-2D_Rendering-blue)
+![Course](https://img.shields.io/badge/Course-Grafika_Komputer-brightgreen)
+![Institution](https://img.shields.io/badge/Institution-ITS-000080)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 Drawing Using HTML Canvas Graphics
 
 Sebuah proyek rendering 2D interaktif yang menggambar dan menganimasikan bentuk "Origami Hummingbird" (Burung Kolibri Origami) menggunakan murni **HTML5 Canvas** dan **JavaScript**. Proyek ini dibuat untuk memenuhi Tugas Individu 1 pada mata kuliah Grafika Komputer.
